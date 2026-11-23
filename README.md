@@ -132,7 +132,7 @@ Windows 請到 <https://ollama.com/download> 下載安裝檔。
 
 ### 3. 設定 Hugging Face token
 
-程式會從環境變數讀 token（**不要把 token 寫進程式碼**）：
+程式會從環境變數讀 token（**注意**）：
 
 ```bash
 export HF_TOKEN=hf_xxxxxxxxxxxxxxxx
